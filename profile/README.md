@@ -6,9 +6,11 @@
 | <img src="https://drive.google.com/uc?export=view&id=1zV9DywkNWbgT5dJIuMNNHMfft0GnkoDU" width="140" height="140"> | <img src="https://drive.google.com/uc?export=view&id=1xZq17TkXxbKIMou_1N8HI5jJ1hGuKmD4" width="140" height="140"> | <img src="https://drive.google.com/uc?export=view&id=1W6rZe96xwdXJeNULFtXOm8Iip6tzN0B6" width="140" height="140"> | <img src="https://drive.google.com/uc?export=view&id=1fBa0aPyXRkrijdG6o3RQcj5ahm_dSktb" width="140" height="140"> |  
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|  
 | <div align="center">Back-End</div>|<div align="center"> Back-End </div> | <div align="center">Back-End </div>|<div align="center"> Back-End </div>                                            |                                                                                                 |
-| <div align="center">[이준규](https://github.com/junkyu92)</div> |<div align="center"> [이현정](https://github.com/12hyeon)</div>|<div align="center"> [최승호](https://github.com/madst0614)</div>|<div align="center"> [조현수](https://github.com/HyunsooZo)</div>|
+| <div align="center">[이준규](https://github.com/junkyu92)</div> |<div align="center"> [이현정](https://github.com/12hyeon)</div>|<div align="center"> [최승호](https://github.com/madst0614)</div>|<div align="center"> [조현수](https://github.com/HyunsooZo)</div>| 
 
+[![Notion](https://img.shields.io/badge/팀_Notion으로_이동하기_(클릭!)-85EA2D.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Team-N-8eb74edcabc246b2b4aa37b72c5d0707?pvs=4)
 </div>
+
 
 ## 프로젝트 
 
